@@ -1,0 +1,572 @@
+
+<http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420637> a <http://example.org/SecondObject> ;
+	<http://number.prop> "26"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+	<http://name.prop> "Labuť"@cs ;
+	<http://link.to.ruian> <https://ruian.linked.opendata.cz/zdroj/adresní-místa/8420637> .
+
+<http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420645> a <http://example.org/SecondObject> ;
+	<http://number.prop> "27"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+	<http://name.prop> "Labuť"@cs ;
+	<http://link.to.ruian> <https://ruian.linked.opendata.cz/zdroj/adresní-místa/8420645> .
+
+<http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F25649434> a <http://example.org/SecondObject> ;
+	<http://number.prop> "29"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+	<http://name.prop> "Opavská"@cs ;
+	<http://link.to.ruian> <https://ruian.linked.opendata.cz/zdroj/adresní-místa/25649434> .
+
+<http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420670> a <http://example.org/SecondObject> ;
+	<http://number.prop> "11"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+	<http://name.prop> "Na samotě"@cs ;
+	<http://link.to.ruian> <https://ruian.linked.opendata.cz/zdroj/adresní-místa/8420670> .
+
+<http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420688> a <http://example.org/SecondObject> ;
+	<http://number.prop> "13"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+	<http://name.prop> "Na samotě"@cs ;
+	<http://link.to.ruian> <https://ruian.linked.opendata.cz/zdroj/adresní-místa/8420688> .
+
+<http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420696> a <http://example.org/SecondObject> ;
+	<http://number.prop> "15"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+	<http://name.prop> "Na samotě"@cs ;
+	<http://link.to.ruian> <https://ruian.linked.opendata.cz/zdroj/adresní-místa/8420696> .
+
+<http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420700> a <http://example.org/SecondObject> ;
+	<http://number.prop> "19"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+	<http://name.prop> "Na samotě"@cs ;
+	<http://link.to.ruian> <https://ruian.linked.opendata.cz/zdroj/adresní-místa/8420700> .
+
+<http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420718> a <http://example.org/SecondObject> ;
+	<http://number.prop> "3"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+	<http://name.prop> "Údolí mladých"@cs ;
+	<http://link.to.ruian> <https://ruian.linked.opendata.cz/zdroj/adresní-místa/8420718> .
+
+<http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420726> a <http://example.org/SecondObject> ;
+	<http://number.prop> "13"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+	<http://name.prop> "Pod Hubleskou"@cs ;
+	<http://link.to.ruian> <https://ruian.linked.opendata.cz/zdroj/adresní-místa/8420726> .
+
+<http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420734> a <http://example.org/SecondObject> ;
+	<http://number.prop> "15"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+	<http://name.prop> "Pod Hubleskou"@cs ;
+	<http://link.to.ruian> <https://ruian.linked.opendata.cz/zdroj/adresní-místa/8420734> .
+
+<http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420769> a <http://example.org/SecondObject> ;
+	<http://number.prop> "30"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+	<http://name.prop> "Budovatelská"@cs ;
+	<http://link.to.ruian> <https://ruian.linked.opendata.cz/zdroj/adresní-místa/8420769> .
+
+<http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420777> a <http://example.org/SecondObject> ;
+	<http://number.prop> "32"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+	<http://name.prop> "Budovatelská"@cs ;
+	<http://link.to.ruian> <https://ruian.linked.opendata.cz/zdroj/adresní-místa/8420777> .
+
+<http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420785> a <http://example.org/SecondObject> ;
+	<http://number.prop> "34"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+	<http://name.prop> "Budovatelská"@cs ;
+	<http://link.to.ruian> <https://ruian.linked.opendata.cz/zdroj/adresní-místa/8420785> .
+
+<http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420793> a <http://example.org/SecondObject> ;
+	<http://number.prop> "11"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+	<http://name.prop> "Na cvrčku"@cs ;
+	<http://link.to.ruian> <https://ruian.linked.opendata.cz/zdroj/adresní-místa/8420793> .
+
+<http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420807> a <http://example.org/SecondObject> ;
+	<http://number.prop> "13"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+	<http://name.prop> "Na cvrčku"@cs ;
+	<http://link.to.ruian> <https://ruian.linked.opendata.cz/zdroj/adresní-místa/8420807> .
+
+<http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420815> a <http://example.org/SecondObject> ;
+	<http://number.prop> "66"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+	<http://name.prop> "Nad Střelnicí"@cs ;
+	<http://link.to.ruian> <https://ruian.linked.opendata.cz/zdroj/adresní-místa/8420815> .
+
+<http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420823> a <http://example.org/SecondObject> ;
+	<http://number.prop> "68"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+	<http://name.prop> "Nad Střelnicí"@cs ;
+	<http://link.to.ruian> <https://ruian.linked.opendata.cz/zdroj/adresní-místa/8420823> .
+
+<http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420831> a <http://example.org/SecondObject> ;
+	<http://number.prop> "8"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+	<http://name.prop> "Na cvrčku"@cs ;
+	<http://link.to.ruian> <https://ruian.linked.opendata.cz/zdroj/adresní-místa/8420831> .
+
+<http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420840> a <http://example.org/SecondObject> ;
+	<http://number.prop> "15"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+	<http://name.prop> "Na cvrčku"@cs ;
+	<http://link.to.ruian> <https://ruian.linked.opendata.cz/zdroj/adresní-místa/8420840> .
+
+<http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420858> a <http://example.org/SecondObject> ;
+	<http://number.prop> "12"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+	<http://name.prop> "Nad přehradou"@cs ;
+	<http://link.to.ruian> <https://ruian.linked.opendata.cz/zdroj/adresní-místa/8420858> .
+
+<http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420866> a <http://example.org/SecondObject> ;
+	<http://number.prop> "14"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+	<http://name.prop> "Nad přehradou"@cs ;
+	<http://link.to.ruian> <https://ruian.linked.opendata.cz/zdroj/adresní-místa/8420866> .
+
+<http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420874> a <http://example.org/SecondObject> ;
+	<http://number.prop> "16"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+	<http://name.prop> "Nad přehradou"@cs ;
+	<http://link.to.ruian> <https://ruian.linked.opendata.cz/zdroj/adresní-místa/8420874> .
+
+<http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420882> a <http://example.org/SecondObject> ;
+	<http://number.prop> "18"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+	<http://name.prop> "Nad přehradou"@cs ;
+	<http://link.to.ruian> <https://ruian.linked.opendata.cz/zdroj/adresní-místa/8420882> .
+
+<http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420891> a <http://example.org/SecondObject> ;
+	<http://number.prop> "20"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+	<http://name.prop> "Nad přehradou"@cs ;
+	<http://link.to.ruian> <https://ruian.linked.opendata.cz/zdroj/adresní-místa/8420891> .
+
+<http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420904> a <http://example.org/SecondObject> ;
+	<http://number.prop> "22"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+	<http://name.prop> "Nad přehradou"@cs ;
+	<http://link.to.ruian> <https://ruian.linked.opendata.cz/zdroj/adresní-místa/8420904> .
+
+<http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420912> a <http://example.org/SecondObject> ;
+	<http://number.prop> "24"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+	<http://name.prop> "Nad přehradou"@cs ;
+	<http://link.to.ruian> <https://ruian.linked.opendata.cz/zdroj/adresní-místa/8420912> .
+
+<http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420921> a <http://example.org/SecondObject> ;
+	<http://number.prop> "26"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+	<http://name.prop> "Nad přehradou"@cs ;
+	<http://link.to.ruian> <https://ruian.linked.opendata.cz/zdroj/adresní-místa/8420921> .
+
+<http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420939> a <http://example.org/SecondObject> ;
+	<http://number.prop> "28"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+	<http://name.prop> "Nad přehradou"@cs ;
+	<http://link.to.ruian> <https://ruian.linked.opendata.cz/zdroj/adresní-místa/8420939> .
+
+<http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420947> a <http://example.org/SecondObject> ;
+	<http://number.prop> "33"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+	<http://name.prop> "Tkalcovská"@cs ;
+	<http://link.to.ruian> <https://ruian.linked.opendata.cz/zdroj/adresní-místa/8420947> .
+
+<http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420955> a <http://example.org/SecondObject> ;
+	<http://number.prop> "35"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+	<http://name.prop> "Tkalcovská"@cs ;
+	<http://link.to.ruian> <https://ruian.linked.opendata.cz/zdroj/adresní-místa/8420955> .
+
+<http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420963> a <http://example.org/SecondObject> ;
+	<http://number.prop> "68"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+	<http://name.prop> "U potoka"@cs ;
+	<http://link.to.ruian> <https://ruian.linked.opendata.cz/zdroj/adresní-místa/8420963> .
+
+<http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420971> a <http://example.org/SecondObject> ;
+	<http://number.prop> "72"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+	<http://name.prop> "U potoka"@cs ;
+	<http://link.to.ruian> <https://ruian.linked.opendata.cz/zdroj/adresní-místa/8420971> .
+
+<http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420980> a <http://example.org/SecondObject> ;
+	<http://number.prop> "74"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+	<http://name.prop> "U potoka"@cs ;
+	<http://link.to.ruian> <https://ruian.linked.opendata.cz/zdroj/adresní-místa/8420980> .
+
+<http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420998> a <http://example.org/SecondObject> ;
+	<http://number.prop> "76"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+	<http://name.prop> "U potoka"@cs ;
+	<http://link.to.ruian> <https://ruian.linked.opendata.cz/zdroj/adresní-místa/8420998> .
+
+<http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8421005> a <http://example.org/SecondObject> ;
+	<http://number.prop> "78"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+	<http://name.prop> "U potoka"@cs ;
+	<http://link.to.ruian> <https://ruian.linked.opendata.cz/zdroj/adresní-místa/8421005> .
+
+<http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8421013> a <http://example.org/SecondObject> ;
+	<http://number.prop> "80"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+	<http://name.prop> "U potoka"@cs ;
+	<http://link.to.ruian> <https://ruian.linked.opendata.cz/zdroj/adresní-místa/8421013> .
+
+<http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8421021> a <http://example.org/SecondObject> ;
+	<http://number.prop> "82"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+	<http://name.prop> "U potoka"@cs ;
+	<http://link.to.ruian> <https://ruian.linked.opendata.cz/zdroj/adresní-místa/8421021> .
+
+<http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8421030> a <http://example.org/SecondObject> ;
+	<http://number.prop> "84"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+	<http://name.prop> "U potoka"@cs ;
+	<http://link.to.ruian> <https://ruian.linked.opendata.cz/zdroj/adresní-místa/8421030> .
+
+<http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8421048> a <http://example.org/SecondObject> ;
+	<http://number.prop> "86"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+	<http://name.prop> "U potoka"@cs ;
+	<http://link.to.ruian> <https://ruian.linked.opendata.cz/zdroj/adresní-místa/8421048> .
+
+<http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8421056> a <http://example.org/SecondObject> ;
+	<http://number.prop> "43"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+	<http://name.prop> "1. máje"@cs ;
+	<http://link.to.ruian> <https://ruian.linked.opendata.cz/zdroj/adresní-místa/8421056> .
+
+<http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8421072> a <http://example.org/SecondObject> ;
+	<http://number.prop> "16"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+	<http://name.prop> "Radotínská"@cs ;
+	<http://link.to.ruian> <https://ruian.linked.opendata.cz/zdroj/adresní-místa/8421072> .
+
+<http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8421081> a <http://example.org/SecondObject> ;
+	<http://number.prop> "11"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+	<http://name.prop> "Jiráskova"@cs ;
+	<http://link.to.ruian> <https://ruian.linked.opendata.cz/zdroj/adresní-místa/8421081> .
+
+<http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F75370841> a <http://example.org/SecondObject> ;
+	<http://number.prop> "16"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+	<http://name.prop> "Beskydská"@cs ;
+	<http://link.to.ruian> <https://ruian.linked.opendata.cz/zdroj/adresní-místa/75370841> .
+
+<http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F75530601> a <http://example.org/SecondObject> ;
+	<http://number.prop> "95"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+	<http://name.prop> "Radotínská"@cs ;
+	<http://link.to.ruian> <https://ruian.linked.opendata.cz/zdroj/adresní-místa/75530601> .
+
+<http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420637> a <http://example.org/FirstObject> ;
+	<http://a.property> <http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420637> ;
+	<http://psc.org> "74301"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420645> a <http://example.org/FirstObject> ;
+	<http://a.property> <http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420645> ;
+	<http://psc.org> "74301"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F25649434> a <http://example.org/FirstObject> ;
+	<http://a.property> <http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F25649434> ;
+	<http://psc.org> "74301"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420670> a <http://example.org/FirstObject> ;
+	<http://a.property> <http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420670> ;
+	<http://psc.org> "74301"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420688> a <http://example.org/FirstObject> ;
+	<http://a.property> <http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420688> ;
+	<http://psc.org> "74301"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420696> a <http://example.org/FirstObject> ;
+	<http://a.property> <http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420696> ;
+	<http://psc.org> "74301"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420700> a <http://example.org/FirstObject> ;
+	<http://a.property> <http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420700> ;
+	<http://psc.org> "74301"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420718> a <http://example.org/FirstObject> ;
+	<http://a.property> <http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420718> ;
+	<http://psc.org> "74301"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420726> a <http://example.org/FirstObject> ;
+	<http://a.property> <http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420726> ;
+	<http://psc.org> "74301"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420734> a <http://example.org/FirstObject> ;
+	<http://a.property> <http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420734> ;
+	<http://psc.org> "74301"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420769> a <http://example.org/FirstObject> ;
+	<http://a.property> <http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420769> ;
+	<http://psc.org> "74301"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420777> a <http://example.org/FirstObject> ;
+	<http://a.property> <http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420777> ;
+	<http://psc.org> "74301"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420785> a <http://example.org/FirstObject> ;
+	<http://a.property> <http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420785> ;
+	<http://psc.org> "74301"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420793> a <http://example.org/FirstObject> ;
+	<http://a.property> <http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420793> ;
+	<http://psc.org> "74301"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420807> a <http://example.org/FirstObject> ;
+	<http://a.property> <http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420807> ;
+	<http://psc.org> "74301"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420815> a <http://example.org/FirstObject> ;
+	<http://a.property> <http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420815> ;
+	<http://psc.org> "74301"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420823> a <http://example.org/FirstObject> ;
+	<http://a.property> <http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420823> ;
+	<http://psc.org> "74301"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420831> a <http://example.org/FirstObject> ;
+	<http://a.property> <http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420831> ;
+	<http://psc.org> "74301"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420840> a <http://example.org/FirstObject> ;
+	<http://a.property> <http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420840> ;
+	<http://psc.org> "74301"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420858> a <http://example.org/FirstObject> ;
+	<http://a.property> <http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420858> ;
+	<http://psc.org> "74301"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420866> a <http://example.org/FirstObject> ;
+	<http://a.property> <http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420866> ;
+	<http://psc.org> "74301"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420874> a <http://example.org/FirstObject> ;
+	<http://a.property> <http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420874> ;
+	<http://psc.org> "74301"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420882> a <http://example.org/FirstObject> ;
+	<http://a.property> <http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420882> ;
+	<http://psc.org> "74301"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420891> a <http://example.org/FirstObject> ;
+	<http://a.property> <http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420891> ;
+	<http://psc.org> "74301"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420904> a <http://example.org/FirstObject> ;
+	<http://a.property> <http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420904> ;
+	<http://psc.org> "74301"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420912> a <http://example.org/FirstObject> ;
+	<http://a.property> <http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420912> ;
+	<http://psc.org> "74301"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420921> a <http://example.org/FirstObject> ;
+	<http://a.property> <http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420921> ;
+	<http://psc.org> "74301"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420939> a <http://example.org/FirstObject> ;
+	<http://a.property> <http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420939> ;
+	<http://psc.org> "74301"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420947> a <http://example.org/FirstObject> ;
+	<http://a.property> <http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420947> ;
+	<http://psc.org> "74301"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420955> a <http://example.org/FirstObject> ;
+	<http://a.property> <http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420955> ;
+	<http://psc.org> "74301"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420963> a <http://example.org/FirstObject> ;
+	<http://a.property> <http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420963> ;
+	<http://psc.org> "74301"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420971> a <http://example.org/FirstObject> ;
+	<http://a.property> <http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420971> ;
+	<http://psc.org> "74301"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420980> a <http://example.org/FirstObject> ;
+	<http://a.property> <http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420980> ;
+	<http://psc.org> "74301"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420998> a <http://example.org/FirstObject> ;
+	<http://a.property> <http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420998> ;
+	<http://psc.org> "74301"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8421005> a <http://example.org/FirstObject> ;
+	<http://a.property> <http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8421005> ;
+	<http://psc.org> "74301"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8421013> a <http://example.org/FirstObject> ;
+	<http://a.property> <http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8421013> ;
+	<http://psc.org> "74301"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8421021> a <http://example.org/FirstObject> ;
+	<http://a.property> <http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8421021> ;
+	<http://psc.org> "74301"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8421030> a <http://example.org/FirstObject> ;
+	<http://a.property> <http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8421030> ;
+	<http://psc.org> "74301"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8421048> a <http://example.org/FirstObject> ;
+	<http://a.property> <http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8421048> ;
+	<http://psc.org> "74301"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8421056> a <http://example.org/FirstObject> ;
+	<http://a.property> <http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8421056> ;
+	<http://psc.org> "74301"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8421072> a <http://example.org/FirstObject> ;
+	<http://a.property> <http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8421072> ;
+	<http://psc.org> "74301"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8421081> a <http://example.org/FirstObject> ;
+	<http://a.property> <http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8421081> ;
+	<http://psc.org> "74301"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F75370841> a <http://example.org/FirstObject> ;
+	<http://a.property> <http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F75370841> ;
+	<http://psc.org> "74301"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F75530601> a <http://example.org/FirstObject> ;
+	<http://a.property> <http://another.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F75530601> ;
+	<http://psc.org> "74301"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://src.com/stress/withoutelevator/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420637> a <http://example.org/SourceObjectStress/elevator/without> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Labuť 26" ;
+	<http://a.property> <http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420637> .
+
+<http://src.com/stress/withoutelevator/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420645> a <http://example.org/SourceObjectStress/elevator/without> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Labuť 27" ;
+	<http://a.property> <http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420645> .
+
+<http://src.com/stress/withoutelevator/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F25649434> a <http://example.org/SourceObjectStress/elevator/without> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Opavská 29" ;
+	<http://a.property> <http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F25649434> .
+
+<http://src.com/stress/withoutelevator/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420670> a <http://example.org/SourceObjectStress/elevator/without> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Na samotě 11" ;
+	<http://a.property> <http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420670> .
+
+<http://src.com/stress/withoutelevator/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420688> a <http://example.org/SourceObjectStress/elevator/without> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Na samotě 13" ;
+	<http://a.property> <http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420688> .
+
+<http://src.com/stress/withoutelevator/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420696> a <http://example.org/SourceObjectStress/elevator/without> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Na samotě 15" ;
+	<http://a.property> <http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420696> .
+
+<http://src.com/stress/withoutelevator/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420700> a <http://example.org/SourceObjectStress/elevator/without> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Na samotě 19" ;
+	<http://a.property> <http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420700> .
+
+<http://src.com/stress/withoutelevator/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420718> a <http://example.org/SourceObjectStress/elevator/without> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Údolí mladých 3" ;
+	<http://a.property> <http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420718> .
+
+<http://src.com/stress/withoutelevator/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420726> a <http://example.org/SourceObjectStress/elevator/without> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Pod Hubleskou 13" ;
+	<http://a.property> <http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420726> .
+
+<http://src.com/stress/withoutelevator/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420734> a <http://example.org/SourceObjectStress/elevator/without> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Pod Hubleskou 15" ;
+	<http://a.property> <http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420734> .
+
+<http://src.com/stress/withoutelevator/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420769> a <http://example.org/SourceObjectStress/elevator/without> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Budovatelská 30" ;
+	<http://a.property> <http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420769> .
+
+<http://src.com/stress/withoutelevator/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420777> a <http://example.org/SourceObjectStress/elevator/without> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Budovatelská 32" ;
+	<http://a.property> <http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420777> .
+
+<http://src.com/stress/withoutelevator/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420785> a <http://example.org/SourceObjectStress/elevator/without> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Budovatelská 34" ;
+	<http://a.property> <http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420785> .
+
+<http://src.com/stress/withoutelevator/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420793> a <http://example.org/SourceObjectStress/elevator/without> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Na cvrčku 11" ;
+	<http://a.property> <http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420793> .
+
+<http://src.com/stress/withoutelevator/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420807> a <http://example.org/SourceObjectStress/elevator/without> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Na cvrčku 13" ;
+	<http://a.property> <http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420807> .
+
+<http://src.com/stress/withoutelevator/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420815> a <http://example.org/SourceObjectStress/elevator/without> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Nad Střelnicí 66" ;
+	<http://a.property> <http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420815> .
+
+<http://src.com/stress/withoutelevator/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420823> a <http://example.org/SourceObjectStress/elevator/without> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Nad Střelnicí 68" ;
+	<http://a.property> <http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420823> .
+
+<http://src.com/stress/withoutelevator/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420831> a <http://example.org/SourceObjectStress/elevator/without> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Na cvrčku 8" ;
+	<http://a.property> <http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420831> .
+
+<http://src.com/stress/withoutelevator/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420840> a <http://example.org/SourceObjectStress/elevator/without> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Na cvrčku 15" ;
+	<http://a.property> <http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420840> .
+
+<http://src.com/stress/withoutelevator/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420858> a <http://example.org/SourceObjectStress/elevator/without> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Nad přehradou 12" ;
+	<http://a.property> <http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420858> .
+
+<http://src.com/stress/withoutelevator/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420866> a <http://example.org/SourceObjectStress/elevator/without> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Nad přehradou 14" ;
+	<http://a.property> <http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420866> .
+
+<http://src.com/stress/withoutelevator/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420874> a <http://example.org/SourceObjectStress/elevator/without> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Nad přehradou 16" ;
+	<http://a.property> <http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420874> .
+
+<http://src.com/stress/withoutelevator/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420882> a <http://example.org/SourceObjectStress/elevator/without> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Nad přehradou 18" ;
+	<http://a.property> <http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420882> .
+
+<http://src.com/stress/withoutelevator/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420891> a <http://example.org/SourceObjectStress/elevator/without> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Nad přehradou 20" ;
+	<http://a.property> <http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420891> .
+
+<http://src.com/stress/withoutelevator/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420904> a <http://example.org/SourceObjectStress/elevator/without> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Nad přehradou 22" ;
+	<http://a.property> <http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420904> .
+
+<http://src.com/stress/withoutelevator/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420912> a <http://example.org/SourceObjectStress/elevator/without> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Nad přehradou 24" ;
+	<http://a.property> <http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420912> .
+
+<http://src.com/stress/withoutelevator/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420921> a <http://example.org/SourceObjectStress/elevator/without> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Nad přehradou 26" ;
+	<http://a.property> <http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420921> .
+
+<http://src.com/stress/withoutelevator/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420939> a <http://example.org/SourceObjectStress/elevator/without> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Nad přehradou 28" ;
+	<http://a.property> <http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420939> .
+
+<http://src.com/stress/withoutelevator/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420947> a <http://example.org/SourceObjectStress/elevator/without> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Tkalcovská 33" ;
+	<http://a.property> <http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420947> .
+
+<http://src.com/stress/withoutelevator/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420955> a <http://example.org/SourceObjectStress/elevator/without> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Tkalcovská 35" ;
+	<http://a.property> <http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420955> .
+
+<http://src.com/stress/withoutelevator/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420963> a <http://example.org/SourceObjectStress/elevator/without> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "U potoka 68" ;
+	<http://a.property> <http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420963> .
+
+<http://src.com/stress/withoutelevator/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420971> a <http://example.org/SourceObjectStress/elevator/without> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "U potoka 72" ;
+	<http://a.property> <http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420971> .
+
+<http://src.com/stress/withoutelevator/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420980> a <http://example.org/SourceObjectStress/elevator/without> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "U potoka 74" ;
+	<http://a.property> <http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420980> .
+
+<http://src.com/stress/withoutelevator/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420998> a <http://example.org/SourceObjectStress/elevator/without> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "U potoka 76" ;
+	<http://a.property> <http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8420998> .
+
+<http://src.com/stress/withoutelevator/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8421005> a <http://example.org/SourceObjectStress/elevator/without> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "U potoka 78" ;
+	<http://a.property> <http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8421005> .
+
+<http://src.com/stress/withoutelevator/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8421013> a <http://example.org/SourceObjectStress/elevator/without> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "U potoka 80" ;
+	<http://a.property> <http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8421013> .
+
+<http://src.com/stress/withoutelevator/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8421021> a <http://example.org/SourceObjectStress/elevator/without> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "U potoka 82" ;
+	<http://a.property> <http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8421021> .
+
+<http://src.com/stress/withoutelevator/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8421030> a <http://example.org/SourceObjectStress/elevator/without> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "U potoka 84" ;
+	<http://a.property> <http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8421030> .
+
+<http://src.com/stress/withoutelevator/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8421048> a <http://example.org/SourceObjectStress/elevator/without> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "U potoka 86" ;
+	<http://a.property> <http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8421048> .
+
+<http://src.com/stress/withoutelevator/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8421056> a <http://example.org/SourceObjectStress/elevator/without> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "1. máje 43" ;
+	<http://a.property> <http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8421056> .
+
+<http://src.com/stress/withoutelevator/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8421072> a <http://example.org/SourceObjectStress/elevator/without> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Radotínská 16" ;
+	<http://a.property> <http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8421072> .
+
+<http://src.com/stress/withoutelevator/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8421081> a <http://example.org/SourceObjectStress/elevator/without> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Jiráskova 11" ;
+	<http://a.property> <http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F8421081> .
+
+<http://src.com/stress/withoutelevator/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F75370841> a <http://example.org/SourceObjectStress/elevator/without> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Beskydská 16" ;
+	<http://a.property> <http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F75370841> .
+
+<http://src.com/stress/withoutelevator/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F75530601> a <http://example.org/SourceObjectStress/elevator/without> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Radotínská 95" ;
+	<http://a.property> <http://example.com/https%3A%2F%2Fruian.linked.opendata.cz%2Fzdroj%2Fadresní-místa%2F75530601> .
