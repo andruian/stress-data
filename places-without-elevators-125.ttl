@@ -8,12 +8,12 @@
 
 #
 
-:dataDefPlacesWithoutElevators
+:dataDefPlacesWithoutElevators125
     a                 andr:DataDef;
     andr:locationClassDef  :locationDef;
     andr:sourceClassDef :sourceClassDef;
     andr:indexServer  :indexServer;
-    skos:prefLabel "Address places without elevators";
+    skos:prefLabel "Places without elevators, limit 125";
     .
 
 #
